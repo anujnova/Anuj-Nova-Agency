@@ -1,0 +1,20 @@
+{
+  "name": "anuj-nova-agency",
+  "version": "1.0.0",
+  "description": "Official personal branding and freelance web development agency website for Anuj Nova Agency",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-inquiry.js"
+  },
+  "keywords": [
+    "freelance",
+    "web-developer",
+    "agency",
+    "portfolio",
+    "ecommerce",
+    "business-website"
+  ],
+  "author": "Anuj Nova Agency",
+  "license": "ISC"
+}
